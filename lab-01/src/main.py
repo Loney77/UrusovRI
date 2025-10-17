@@ -1,4 +1,3 @@
-# search_comparison.py
 import random
 import time
 from typing import List, Optional
